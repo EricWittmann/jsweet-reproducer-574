@@ -1,0 +1,10 @@
+/bin/
+/target/
+.vscode
+.generated
+.ts
+.js
+.jsweet
+.project
+.settings
+.classpath
