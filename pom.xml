@@ -26,7 +26,7 @@
 		<version.yarn>1.15.2</version.yarn>
 
 		<!-- Dependency Versions -->
-		<version.junit>4.13</version.junit>
+		<version.junit>4.13.1</version.junit>
 		<version.org.jsweet>2.3.6</version.org.jsweet>
 
 		<!-- Plugin Versions -->
